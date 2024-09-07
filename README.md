@@ -27,4 +27,4 @@ Integrate models into software systems with minimal manual intervention.
 Continuously improve and update models in production environments.
 This repository is packed with tutorials, code examples, and real-world projects to help you build a strong foundation in MLOps and accelerate your career in this exciting field.
 
-Happy learning!
+Happy learning!!
